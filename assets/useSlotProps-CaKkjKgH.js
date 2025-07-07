@@ -1,0 +1,1 @@
+import{e as m,m as P,f as S}from"./Table-Bj9tenNe.js";import{$ as c}from"./Link-V99gn8vR.js";function x(e){var t;const{elementType:s,externalSlotProps:p,ownerState:r,skipResolvingSlotProps:n=!1,...a}=e,o=n?{}:m(p,r),{props:l,internalRef:f}=P({...a,externalSlotProps:o}),i=c(f,o==null?void 0:o.ref,(t=e.additionalProps)==null?void 0:t.ref);return S(s,{...l,ref:i},r)}export{x as u};
